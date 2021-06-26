@@ -31,3 +31,11 @@ This dataset consists of a series of CSV files. Each of these CSV files contain 
 Acknowledgements
 Mohammad Kachuee, Shayan Fazeli, and Majid Sarrafzadeh. "ECG Heartbeat Classification: A Deep Transferable Representation." arXiv preprint arXiv:1805.00794 (2018).
 
+Code
+
+The initial notebook (_Baseline) is using simple Machine Learning technique to try to predict the data and establish a baseline of their perofmrance.  4 Models were used:
+- SVM
+- Extra Tress Classifier
+- Logistic Regression
+- Random Forest Classifier (as recommended by Auto ML)
+None of the models performed well and the next Notebook will use Deep Learning.
