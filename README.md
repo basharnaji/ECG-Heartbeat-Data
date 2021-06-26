@@ -38,4 +38,5 @@ The initial notebook (_Baseline) is using simple Machine Learning technique to t
 - Extra Tress Classifier
 - Logistic Regression
 - Random Forest Classifier (as recommended by Auto ML)
+
 None of the models performed well and the next Notebook will use Deep Learning.
