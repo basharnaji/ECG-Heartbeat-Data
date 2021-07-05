@@ -36,6 +36,6 @@ The initial notebook (_Baseline) is using simple Machine Learning techniques to 
 - SVM
 - Extra Tress Classifier
 - Logistic Regression
-- Random Forest Classifier (as recommended by Auto ML)
+- Gradient Boosting Classifier (as recommended by Auto ML)
 
-None of the models performed well and the next Notebook will use Deep Learning.
+For the PTB dataset the classifiers did really well and its hard to imagine that a deep learning model can outperform them without taking a significant performance hit for a neglibile improvement in prediction results.  For the MIT multi-classification dataset, a deep learning model could probably improve the performance but the baseline results were quite good for the majority of the classes.
